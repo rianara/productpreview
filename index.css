@@ -21,6 +21,7 @@ body p {
   max-width: 670px;
   margin-left: auto;
   margin-right: auto;
+  padding: 0 15px;
 }
 
 .row {
@@ -72,7 +73,7 @@ body p {
 .perfume h1 {
   font-family: 'Fraunces', serif;
   font-weight: 700;
-  font-size: 2.7em;
+  font-size: 2.1em;
   margin: 0;
   line-height: 40px;
   margin-bottom: 25px
@@ -82,13 +83,14 @@ body p {
   margin: 0;
   line-height: 25px;
   color: #6c7289;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
+  font-size: 15px;
 }
 
 .pricing p:first-of-type {
   color: #3c8067;
   font-family: 'Fraunces', serif;
-  font-size: 2.4em;
+  font-size: 2.2em;
   margin: 0;
   margin-right: 25px;
 }
@@ -106,7 +108,7 @@ body p {
   border: none;
   border-radius: 5px;
   width: 100%;
-  padding: 0.9rem 0;
+  padding: 1rem 0;
   font-weight: 700;
   display: flex;
   justify-content: center;
@@ -159,7 +161,7 @@ body p {
   }
 
   .perfume h1 {
-    font-size: 2.3em;
+    font-size: 2em;
     line-height: 38px;
     margin-bottom: 18px;
   }
