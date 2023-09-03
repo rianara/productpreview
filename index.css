@@ -141,7 +141,7 @@ body p {
   }
 
   .container-left, .container-right {
-    width: 340px;
+    width: min(340px, 100%);
     border-top-right-radius: 0;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
